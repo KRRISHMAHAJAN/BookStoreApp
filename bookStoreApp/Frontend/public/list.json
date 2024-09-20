@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "StoryBook 1",
+        "title": "Very Interesting StoryBook - Part 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 2,
+        "name": "StoryBook 2",
+        "title": "Very Interesting StoryBook - Part 2",
+        "price": 12.99,
+        "category": "Fiction",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 3,
+        "name": "StoryBook 3",
+        "title": "Very Interesting StoryBook - Part 3",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 4,
+        "name": "StoryBook 4",
+        "title": "Very Interesting StoryBook - Part 4",
+        "price": 25.50,
+        "category": "Non-Fiction",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 5,
+        "name": "StoryBook 5",
+        "title": "Very Interesting StoryBook - Part 5",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 6,
+        "name": "StoryBook 6",
+        "title": "Very Interesting StoryBook - Part 6",
+        "price": 30.75,
+        "category": "Adventure",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 7,
+        "name": "StoryBook 7",
+        "title": "Very Interesting StoryBook - Part 7",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 8,
+        "name": "StoryBook 8",
+        "title": "Very Interesting StoryBook - Part 8",
+        "price": 50.00,
+        "category": "Fantasy",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 9,
+        "name": "StoryBook 9",
+        "title": "Very Interesting StoryBook - Part 9",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 10,
+        "name": "StoryBook 10",
+        "title": "Very Interesting StoryBook - Part 10",
+        "price": 10.99,
+        "category": "Fiction",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 11,
+        "name": "StoryBook 11",
+        "title": "Very Interesting StoryBook - Part 11",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 12,
+        "name": "StoryBook 12",
+        "title": "Very Interesting StoryBook - Part 12",
+        "price": 20.45,
+        "category": "Non-Fiction",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 13,
+        "name": "StoryBook 13",
+        "title": "Very Interesting StoryBook - Part 13",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 14,
+        "name": "StoryBook 14",
+        "title": "Very Interesting StoryBook - Part 14",
+        "price": 35.80,
+        "category": "Adventure",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 15,
+        "name": "StoryBook 15",
+        "title": "Very Interesting StoryBook - Part 15",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 16,
+        "name": "StoryBook 16",
+        "title": "Very Interesting StoryBook - Part 16",
+        "price": 22.15,
+        "category": "Fantasy",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 17,
+        "name": "StoryBook 17",
+        "title": "Very Interesting StoryBook - Part 17",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1&position=40&uuid=6607a2f6-b758-45b1-b945-bbe865253386"
+    },
+    {
+        "id": 18,
+        "name": "StoryBook 18",
+        "title": "Very Interesting StoryBook - Part 18",
+        "price": 18.50,
+        "category": "Fiction",
+        "image": "https://www.freepik.com/premium-vector/office-themed-setup-equipment-vector-illustration_321215084.htm#fromView=search&page=1"
+    }
+]
+
